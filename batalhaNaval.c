@@ -192,3 +192,42 @@ int main() {
 }
     return 0;
 }
+
+Exemplo de saída
+
+Nível novato
+
+Tabuleiro 5x5 com Navios Posicionados:
+0 0 0 0 0 
+0 3 0 0 0 
+0 3 0 0 0 
+0 3 0 0 0 
+0 0 0 3 3
+    
+Nível Aventureiro
+
+Tabuleiro 10x10 com Navios Posicionados:
+0 0 0 3 3 0 0 0 0 0 
+0 3 0 0 0 0 0 0 0 0 
+0 0 3 0 0 0 0 0 0 0 
+0 0 0 3 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 3 0 0 0 0 0 
+0 0 0 0 0 0 3 0 0 0 
+0 0 0 0 0 0 0 0 3 0 
+0 0 0 0 0 3 3 0 0 0
+
+Nível Mestre
+
+Tabuleiro com Habilidades Aplicadas:
+0 0 1 0 0 0 0 0 0 0 
+0 1 1 1 0 0 0 0 0 0 
+1 1 1 1 1 0 0 0 0 0 
+0 1 1 1 1 0 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+0 1 1 1 0 1 1 1 0 0 
+0 1 0 1 0 1 1 1 0 0 
+1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 1 1 1 1 
+0 0 0 0 1 1 0 1 1 0
