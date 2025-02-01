@@ -111,8 +111,7 @@ void habilidade_octaedro(int tabuleiro[10][10], int x, int y) {
 Exibição do Tabuleiro após Habilidades
 A seguir, mostramos o tabuleiro após aplicar as habilidades:
 
-c
-Copiar
+
 // Exibindo o tabuleiro com habilidades aplicadas
 void exibir_tabuleiro(int tabuleiro[10][10]) {
     for (int i = 0; i < 10; i++) {
@@ -122,11 +121,9 @@ void exibir_tabuleiro(int tabuleiro[10][10]) {
         printf("\n");
     }
 }
-Código Completo
-Aqui está o código completo combinando tudo:
 
-c
-Copiar
+
+
 #include <stdio.h>
 
 void habilidade_cone(int tabuleiro[10][10], int x, int y) {
